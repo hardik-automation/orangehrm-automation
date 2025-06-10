@@ -29,7 +29,7 @@ https://drive.google.com/file/d/11EHsWEIQ2JSGTsrieeAq7EaZFoPf4fIJ/view?usp=shari
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/orangehrm-automation.git
+git clone https://github.com/hardik-automation/orangehrm-automation.git
 cd orangehrm-automation
 
 2. Install required package:
